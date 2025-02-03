@@ -52,7 +52,9 @@ Enter your password (Limit is 50 characters): mysecretkey
 <br>
 Enter your message: Hello, XOR Encryption!
 
-# Original: Hello, XOR Encryption!
+<br>
+<br>
+Original: Hello, XOR Encryption!
 <br>
 Original Message in HEX output: 48 65 6C 6C 6F 2C 20 58 4F 52 20 45 6E 63 72 79 70 74 69 6F 6E 21
 
