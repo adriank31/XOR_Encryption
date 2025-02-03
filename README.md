@@ -2,7 +2,9 @@
 
 
 # Overview
-This is a simple XOR-based encryption program written in C that allows users to obfuscate (encrypt) and de-obfuscate (decrypt) messages using a password as a key. The program demonstrates a rolling XOR cipher, where each character of the input message is XOR'd with a corresponding character of the user-provided password.
+This is a simple XOR-based encryption program written in C that allows users to obfuscate (encrypt) and de-obfuscate (decrypt) messages using a password as a key. 
+<br>
+The program demonstrates a rolling XOR cipher, where each character of the input message is XOR'd with a corresponding character of the user-provided password.
 
 # Features
 Accepts a password from the user (maximum 50 characters) as the encryption key.
