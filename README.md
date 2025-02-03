@@ -37,8 +37,7 @@ The decrypted message is displayed in HEX to confirm that encryption and decrypt
 
 # Compilation and Execution
 <br>
-# Compile the Program
-Use GCC or any C compiler to compile the program:
+Compile the Program and use GCC or any C compiler to compile the program:
 <br>
 <img width="582" alt="executionion" src="https://github.com/user-attachments/assets/3f7d4c21-c675-45ff-b943-10e4f21c0670" />
 
