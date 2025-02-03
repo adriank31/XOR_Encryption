@@ -58,11 +58,15 @@ Original: Hello, XOR Encryption!
 <br>
 Original Message in HEX output: 48 65 6C 6C 6F 2C 20 58 4F 52 20 45 6E 63 72 79 70 74 69 6F 6E 21
 
-# Mangling (Obfuscated): ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+<br>
+<br>
+Mangling (Obfuscated): ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 <br>
 Manging Obfuscated Message in HEX output: 1A 4F 23 56 0F 32 79 14 6D 51 2A 64 39 50 1E 48 5F 3C 26 12 7F
 
-# Demangling (Original): Hello, XOR Encryption!
+<br>
+<br>
+Demangling (Original): Hello, XOR Encryption!
 <br>
 Decrypted Message in HEX output: 48 65 6C 6C 6F 2C 20 58 4F 52 20 45 6E 63 72 79 70 74 69 6F 6E 21
 
