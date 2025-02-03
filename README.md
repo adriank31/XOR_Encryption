@@ -40,7 +40,8 @@ The decrypted message is displayed in HEX to confirm that encryption and decrypt
 # Compile the Program
 Use GCC or any C compiler to compile the program:
 <br>
-![execution](https://github.com/user-attachments/assets/ed0c8112-0103-4b21-aab8-6035f35c6a56)
+![execution](https://github.com/user-attachments/assets/28e01d96-c9db-4da7-827e-015860ad5473)
+
 
 
 # Run the Program
