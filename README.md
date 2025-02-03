@@ -40,11 +40,11 @@ The decrypted message is displayed in HEX to confirm that encryption and decrypt
 # Compile the Program
 Use GCC or any C compiler to compile the program:
 <br>
-![image]![execution](https://github.com/user-attachments/assets/ed0c8112-0103-4b21-aab8-6035f35c6a56)
+![execution](https://github.com/user-attachments/assets/ed0c8112-0103-4b21-aab8-6035f35c6a56)
 
 
 # Run the Program
-![image]!![enecryption1](https://github.com/user-attachments/assets/7eaf7a73-436c-4ca1-b12a-5f4d57af310a)
+![enecryption1](https://github.com/user-attachments/assets/7eaf7a73-436c-4ca1-b12a-5f4d57af310a)
 
 <br>
 
