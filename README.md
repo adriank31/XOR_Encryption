@@ -40,7 +40,7 @@ The decrypted message is displayed in HEX to confirm that encryption and decrypt
 # Compile the Program
 Use GCC or any C compiler to compile the program:
 <br>
-gcc xor_encrypt.c -o xor_encrypt
+![image]https://i.gyazo.com/f03ce9793fa8ecaebfa5add8af5a817f.png
 
 # Run the Program
 ./xor_encrypt
