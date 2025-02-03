@@ -1,5 +1,5 @@
 <div id="badges"> <a href="https://www.linkedin.com/in/adrian-korwel-83226a300/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>
-XOR Encryption Program
+
 
 # Overview
 This is a simple XOR-based encryption program written in C that allows users to obfuscate (encrypt) and de-obfuscate (decrypt) messages using a password as a key. The program demonstrates a rolling XOR cipher, where each character of the input message is XOR'd with a corresponding character of the user-provided password.
