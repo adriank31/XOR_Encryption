@@ -47,7 +47,8 @@ Use GCC or any C compiler to compile the program:
 
 
 # Run the Program
-![enecryption1](https://github.com/user-attachments/assets/7eaf7a73-436c-4ca1-b12a-5f4d57af310a)
+<img width="579" alt="executionion1" src="https://github.com/user-attachments/assets/4d70324e-b37f-4138-9742-2567f51f0818" />
+
 
 <br>
 
